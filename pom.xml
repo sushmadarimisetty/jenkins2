@@ -33,9 +33,9 @@
                 <cloudHubDeployment>
                     <uri> https://anypoint.mulesesoft.com</uri>
                     <muleVersion>4.4.0</muleVersion>
-                    <username>Muralidharreddy14</username>
-                    <password>Murali@12345</password>
-                    <applicationName>CICD-murali</applicationName>
+                    <username>S28</username>
+                    <password>Sushmadarimisetty@28</password>
+                    <applicationName>CICD-sushma</applicationName>
                     <environment>Sandbox</environment>
                     <workers>1</workers>
                     <workerType>Micro</workerType>
